@@ -1,4 +1,4 @@
--- SQL 첫걸음 기반 실습 - 3주차
+-- SQL 첫걸음 기반 실습 - 3주차 - 5장
 
 -- 행 개수 구하기
 SELECT COUNT(*) FROM sample51;
